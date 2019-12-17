@@ -25,16 +25,13 @@
 <body>
 
 <button>Create a new div</button>
-<div class="parent"></div>
 
-<input id="myInput" type="text" placeholder="Search..">
+<div class="row parent">
 
-<div id="myDIV">
-	<div class="category_div bottonClickDiv"><div name="Adventure" id="bg" class="cat1"></div></div>
-	<div class="category_div bottonClickDiv"><div id="bg" name="Aurora" class="cat2"></div></div>
-	<div class="category_div bottonClickDiv"><div id="bg" name="Babies" class="cat3"></div></div>
 </div>
 
+<div id="id01"></div>
+<div id="showData"></div>
 </body>
 
 </html>
@@ -47,49 +44,96 @@
 
 <script type="text/javascript">
 
-
       $("button").click(function(){
-		$(".parent").append(
-			'<div class="col-sm-4 cardPad">' + 
-				'<div>' + 
-					'<div class="cat2 qoCard">' +
-						'<div class="transbox">' +
-							'<p id = "q1">“A lie can travel half way around the world while the truth is putting on its shoes.”</p>' +
+		$.getJSON("sample.json", function (data) {
+
+            var arrItems = [];      // THE ARRAY TO STORE JSON ITEMS.
+            $.each(data, function (index, value) {
+                arrItems.push(value);       // PUSH THE VALUES INSIDE THE ARRAY.
+            });
+
+            for (var i = 0; i < arrItems.length; i++) {
+				$(".parent").append(
+					'<div class="col-sm-4 cardPad">' + 
+						'<div>' + 
+							'<div class="qoCard" style="background-image: url(' + arrItems[i].quoteImgPath + ');">' +
+								'<div class="transbox">' +
+									'<p id = "' + arrItems[i].quoteId + '">“' + 
+										arrItems[i].quoteText
+									 + '”</p>' +
+								'</div>' +
+							'</div>' +
+							'<div>' +
+								'<button onclick="copyToClipboard(' + String("'#") + arrItems[i].quoteId + String("'") + ')">Copy</button>'+
+							'</div>' +
 						'</div>' +
-					'</div>' +
-					'<div>' +
-						'<button onclick="copyToClipboard(' + String("'") + '#q1' + String("'") + ')">Copy</button>'+
-					'</div>' +
-				'</div>' +
-			'</div>');
+					'</div>');
+            }
+		});
       });
 
 
 </script>
 
-<style type="text/css">
-	        #parent { 
-            height: 100px; 
-            width: 300px; 
-            background: green; 
-            margin: 0 auto; 
-        } 
-        #newElement { 
-            height: 40px; 
-            width: 100px; 
-            margin: 0 auto; 
-            color: white 
-        } 
-</style>
+<script>
+/*function adventure(arr) {
+  var out = "";
+  var i;
+  for(i = 0; i<arr.length; i++) {
+    out += '<a href="' + arr[i].quoteImgPath + '">' + 
+    arr[i].quoteId + '</a><br>';
+  }
+  document.getElementById("id01").innerHTML = out;
+}*/
+</script>
 
 <script>
-$(document).ready(function(){
-  $("#myInput").on("keyup", function() {
-    var value = $(this).val().toLowerCase();
-    $("#myDIV *").filter(function() {
-      $(this).toggle($(this).attr("name").toLowerCase().indexOf(value) > -1)
-      console.log($(this).attr("name"));
+    $(document).ready(function () {
+        $.getJSON("sample.json", function (data) {
+
+            var arrItems = [];      // THE ARRAY TO STORE JSON ITEMS.
+            $.each(data, function (index, value) {
+                arrItems.push(value);       // PUSH THE VALUES INSIDE THE ARRAY.
+            });
+
+            // EXTRACT VALUE FOR TABLE HEADER.
+            var col = [];
+            for (var i = 0; i < arrItems.length; i++) {
+                for (var key in arrItems[i]) {
+                    if (col.indexOf(key) === -1) {
+                        col.push(key);
+                    }
+                }
+            }
+
+            // CREATE DYNAMIC TABLE.
+            var table = document.createElement("table");
+
+            // CREATE HTML TABLE HEADER ROW USING THE EXTRACTED HEADERS ABOVE.
+
+            var tr = table.insertRow(-1);                   // TABLE ROW.
+
+            for (var i = 0; i < col.length; i++) {
+                var th = document.createElement("th");      // TABLE HEADER.
+                th.innerHTML = col[i];
+                tr.appendChild(th);
+            }
+
+            // ADD JSON DATA TO THE TABLE AS ROWS.
+            for (var i = 0; i < arrItems.length; i++) {
+
+                tr = table.insertRow(-1);
+
+                for (var j = 0; j < col.length; j++) {
+                    var tabCell = tr.insertCell(-1);
+                    tabCell.innerHTML = arrItems[i][col[j]];
+                }
+            }
+
+            // FINALLY ADD THE NEWLY CREATED TABLE WITH JSON DATA TO A CONTAINER.
+            var divContainer = document.getElementById("showData");
+            divContainer.innerHTML = "";
+            divContainer.appendChild(table);
+        });
     });
-  });
-});
 </script>

@@ -1,0 +1,17 @@
+[
+    {
+        "quoteId": "q1",
+        "quoteText": "Adventure home is where the is no WiFi Signal.",
+        "quoteImgPath": "img/category/dad.jpg"
+    },
+    {
+        "quoteId": "q2",
+        "quoteText": "Adventure more worry less.",
+        "quoteImgPath": "img/category/mom.jpg"
+    },
+    {
+        "quoteId": "q3",
+        "quoteText": "Work hard. Travel harder.",
+        "quoteImgPath": "img/category/crush.jpg"
+    }
+]

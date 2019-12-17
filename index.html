@@ -137,11 +137,11 @@
 				</div>
 			</ul>
 		</div>
-
+		<!--
 		<div class="row">
 			<div class="col-sm-4 cardPad">
 				<div>
-					<div class="cat2 qoCard">
+					<div class="qoCard" style="background-image: url(img/category/foods.jpg);">
 						    <div class="transbox">
             					<p id = "q1">“A lie can travel half way around the world while the truth is putting on its shoes.”</p>
     						</div>
@@ -187,7 +187,8 @@
 					</div>						
 				</div>
 			</div>				
-		</div>
+		</div>-->
+		<div class="row parent"></div>
 
 	</div>
 
@@ -204,36 +205,4 @@
 
 <script>
 	new gnMenu( document.getElementById( 'gn-menu' ) );
-</script>
-
-<script type="">
-	
-	/*$('.test').click( {categoryName:"test"}, function(event) {
-		$("#catagoryNameId").text("←" + event.data.categoryName);
-		console.log($(this).attr("id"))
-	    $('#target').show(0);
-	    $('.home').hide(0);
-	});*/
-
-	$('.bottonClickDiv').click(function() {
-		$("#catagoryNameId").text("← " + $(this).attr("id"));
-	    $('#target').show(0);
-	    $('.home').hide(0);
-	});
-
-	$('.backToHome').click(function(){
-		$('#target').hide(0);
-		$('.home').show(0);
-	});
-</script>
-
-<script>
-	$(document).ready(function(){
-	  $("#myInput").on("keyup", function() {
-	    var value = $(this).val().toLowerCase();
-	    $("#myDIV *").filter(function() {
-	      $(this).toggle($(this).attr("name").toLowerCase().indexOf(value) > -1)
-	    });
-	  });
-	});
 </script>
