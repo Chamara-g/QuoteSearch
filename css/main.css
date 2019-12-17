@@ -1,0 +1,221 @@
+body{
+position:relative;
+overflow-x: hidden;
+width: 100%;
+}
+
+.navbarDiv{
+	position: relative;
+	z-index: 1;
+}
+
+#bg{
+	height:100%;
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: 100% auto;
+	border-radius: 10px;
+}
+
+.category{
+	margin-top: 75px;
+}
+
+.category_div{
+  display: inline-block;
+	width: 49%;
+	height: 180px;
+}
+
+.cat1{
+	background-image: url(../img/category/adventure.jpg);
+}
+.cat2{
+  background-image: url(../img/category/aurora.jpg);
+}
+.cat3{
+  background-image: url(../img/category/babies.jpg);
+}
+.cat4{
+  background-image: url(../img/category/beach.jpg);
+}
+.cat5{
+  background-image: url(../img/category/birthday.jpg);
+}
+.cat6{
+  background-image: url(../img/category/black.jpg);
+}
+.cat7{
+  background-image: url(../img/category/cats.jpg);
+}
+.cat8{
+  background-image: url(../img/category/cities.jpg);
+}.cat9{
+  background-image: url(../img/category/college.jpg);
+}
+.cat10{
+  background-image: url(../img/category/colours.jpg);
+}
+.cat11{
+  background-image: url(../img/category/crush.jpg);
+}
+.cat12{
+  background-image: url(../img/category/cute.jpg);
+}
+.cat13{
+  background-image: url(../img/category/dad.jpg);
+}
+.cat14{
+  background-image: url(../img/category/dogs.jpg);
+}
+.cat15{
+  background-image: url(../img/category/dream.jpg);
+}
+.cat16{
+  background-image: url(../img/category/flowers.jpg);
+}
+.cat17{
+  background-image: url(../img/category/foods.jpg);
+}
+.cat18{
+  background-image: url(../img/category/friends.jpg);
+}.cat19{
+  background-image: url(../img/category/funny.jpg);
+}
+.cat20{
+  background-image: url(../img/category/happiness.jpg);
+}
+.cat21{
+  background-image: url(../img/category/her.jpg);
+}
+.cat22{
+  background-image: url(../img/category/him.jpg);
+}
+.cat23{
+  background-image: url(../img/category/landscape.jpg);
+}
+.cat24{
+  background-image: url(../img/category/lazy.jpg);
+}
+.cat25{
+  background-image: url(../img/category/lonely.jpg);
+}
+.cat26{
+  background-image: url(../img/category/love.jpg);
+}
+.cat27{
+  background-image: url(../img/category/me.jpg);
+}
+.cat28{
+  background-image: url(../img/category/mom.jpg);
+}.cat29{
+  background-image: url(../img/category/morning.jpg);
+}
+.cat30{
+  background-image: url(../img/category/music.jpg);
+}
+.cat31{
+  background-image: url(../img/category/nature.jpg);
+}
+.cat32{
+  background-image: url(../img/category/nightsky.jpg);
+}
+.cat33{
+  background-image: url(../img/category/photography.jpg);
+}
+.cat34{
+  background-image: url(../img/category/place.jpg);
+}
+.cat35{
+  background-image: url(../img/category/reading.jpg);
+}
+.cat36{
+  background-image: url(../img/category/romantic.jpg);
+}
+.cat37{
+  background-image: url(../img/category/sad.jpg);
+}
+.cat38{
+  background-image: url(../img/category/sea.jpg);
+}.cat39{
+  background-image: url(../img/category/single.jpg);
+}
+.cat40{
+  background-image: url(../img/category/summer.jpg);
+}
+.cat41{
+  background-image: url(../img/category/sunrise.jpg);
+}
+.cat42{
+  background-image: url(../img/category/sunsets.jpg);
+}
+.cat43{
+  background-image: url(../img/category/traveling.jpg);
+}
+.cat44{
+  background-image: url(../img/category/waterfall.jpg);
+}
+.cat45{
+  background-image: url(../img/category/wildlife.jpg);
+}
+.cat46{
+  background-image: url(../img/category/winter.jpg);
+}
+
+.qoCard{
+	border-radius:10px 10px 0 0;  
+	height: 100%; 
+	background-repeat: no-repeat; 
+	background-size: 100% auto;	
+}
+
+button {
+  border-radius: 0 0 10px 10px;
+  outline: none;
+  display: inline-block;
+  padding: 8px;
+  color: black;
+  background-color: white;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+
+div.background {
+    background: url("img/cat2.jpg");
+}
+  
+div.transbox {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: black;
+    opacity: 1;
+    height: 250px;
+    border-radius: 10px 10px 0 0;
+    vertical-align: middle;
+    padding: 55px 0;
+}
+
+div.transbox:hover{
+	opacity: 0.5;
+}
+
+div.transbox p {
+    text-align: center;
+    margin: 5%;
+    color: #ffffff;
+    font-size: 25px;
+  }
+
+.cardPad{
+  padding: 20px 20px 0 20px;
+}
