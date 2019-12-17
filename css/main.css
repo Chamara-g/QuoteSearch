@@ -21,12 +21,6 @@ width: 100%;
 	margin-top: 75px;
 }
 
-.category_div{
-  display: inline-block;
-	width: 49%;
-	height: 180px;
-}
-
 .cat1{
 	background-image: url(../img/category/adventure.jpg);
 }
@@ -218,4 +212,26 @@ div.transbox p {
 
 .cardPad{
   padding: 20px 20px 0 20px;
+}
+
+@media only screen and (max-width: 768px) {
+
+  .category_div{
+    display: inline-block;
+    width: 49%;
+    height: 180px;
+    padding: 5px;
+  }
+
+}
+
+@media only screen and (min-width: 768px) {
+
+  .category_div{
+    display: inline-block;
+    width: 25%;
+    height: 250px;
+    padding: 5px;
+  }
+  
 }
