@@ -26,6 +26,15 @@
 
 <button>Create a new div</button>
 <div class="parent"></div>
+
+<input id="myInput" type="text" placeholder="Search..">
+
+<div id="myDIV">
+	<div class="category_div bottonClickDiv"><div name="Adventure" id="bg" class="cat1"></div></div>
+	<div class="category_div bottonClickDiv"><div id="bg" name="Aurora" class="cat2"></div></div>
+	<div class="category_div bottonClickDiv"><div id="bg" name="Babies" class="cat3"></div></div>
+</div>
+
 </body>
 
 </html>
@@ -72,3 +81,15 @@
             color: white 
         } 
 </style>
+
+<script>
+$(document).ready(function(){
+  $("#myInput").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#myDIV *").filter(function() {
+      $(this).toggle($(this).attr("name").toLowerCase().indexOf(value) > -1)
+      console.log($(this).attr("name"));
+    });
+  });
+});
+</script>
