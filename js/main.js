@@ -47,7 +47,7 @@
 	$('.backToHome').click(function(){
 		$('#target').hide(0);
 		$('.home').show(0);
-		$(".parent").remove();
+		$(".parent").empty();
 	});	
 
 	$(document).ready(function(){

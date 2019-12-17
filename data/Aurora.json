@@ -1,0 +1,17 @@
+[
+    {
+        "quoteId": "q1",
+        "quoteText": "You simply have to accept that your demons are a part of you.",
+        "quoteImgPath": "img/category/dad.jpg"
+    },
+    {
+        "quoteId": "q2",
+        "quoteText": "In this big ball of people, I'm just one grain of sand on this beach.",
+        "quoteImgPath": "img/category/mom.jpg"
+    },
+    {
+        "quoteId": "q3",
+        "quoteText": "Music is this divine thing, the closest that we can get to something divine. It's like this instinct we all own, and some of us have found a way to hear that music and write it down and share it with people.",
+        "quoteImgPath": "img/category/crush.jpg"
+    }
+]
