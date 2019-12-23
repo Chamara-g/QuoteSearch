@@ -1,0 +1,950 @@
+[
+    {
+        "quoteId": "q1",
+        "quoteText": "It is the life of the crystal, the architect of the flake, the fire of the frost, the soul of the sunbeam. This crisp winter air is full of it.",
+        "quoteImgPath": "img/category/dad.jpg",
+	"auother":"John Burroughs"
+    },
+    {
+        "quoteId": "q2",
+        "quoteText": "In the Fall of 1774 & Winter of 1775, I was one of upwards of thirty, chiefly mechanics, who formed ourselves into a committee for the purpose of watching the movements of the British soldiers, and gaining every intelligence of the movements of the Tories.",
+        "quoteImgPath": "img/category/mom.jpg",
+	"auother":"Paul Revere"
+    },
+    {
+        "quoteId": "q3",
+        "quoteText": "It was one of those March days when the sun shines hot and the wind blows cold: when it is summer in the light, and winter in the shade.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":"Charles Dickens"
+    },
+    {
+        "quoteId": "q4",
+        "quoteText": "You can't get too much winter in the winter.",
+        "quoteImgPath": "img/category/dad.jpg",
+	"auother":"Robert Frost"
+    },
+    {
+        "quoteId": "q5",
+        "quoteText": "When they set off for their first day at their new school, I will never forget that winter morning as I watched our girls, just 7 and 10 years old, pile into those black SUVs with all those big men with guns.",
+        "quoteImgPath": "img/category/mom.jpg",
+	"auother":"Michelle Obama"
+    },
+    {
+        "quoteId": "q6",
+        "quoteText": "Depending upon my activities, I sleep between five and ten hours every night. I sleep in an extra-wide single bed, and I use only one heavy down comforter over me, summer or winter. I have never been able to wear pajamas or creepy nightgowns; they disturb my sleep.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":"Marilyn Monroe"
+    },
+    {
+        "quoteId": "q7",
+        "quoteText": "I love the scents of winter! For me, it's all about the feeling you get when you smell pumpkin spice, cinnamon, nutmeg, gingerbread and spruce.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Taylor Swift"
+    },
+    {
+        "quoteId": "q8",
+        "quoteText": "In seed time learn, in harvest teach, in winter enjoy.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" William Blake"
+    },
+    {
+        "quoteId": "q9",
+        "quoteText": "God is day and night, winter and summer, war and peace, surfeit and hunger.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Heraclitus"
+    },
+    {
+        "quoteId": "q10",
+        "quoteText": "Living indoors without fresh air quickly poisons the blood and makes people feel tired and seedy when they don't know why. For myself, I sleep out of doors in winter as well as summer. I only feel tired or seedy when I have been indoors a lot. I only catch cold when I sleep in a room.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Robert Baden-Powell"
+    },
+    {
+        "quoteId": "q11",
+        "quoteText": "I have come to regard November as the older, harder man's October. I appreciate the early darkness and cooler temperatures. It puts my mind in a different place than October. It is a month for a quieter, slightly more subdued celebration of summer's death as winter tightens its grip.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Henry Rollins"
+    },
+    {
+        "quoteId": "q12",
+        "quoteText": "Left ear, I wear four earrings. The four is symbolic of the four seasons, spring, winter, summer and fall, the four directions, north, east, south and west, the four gospel writers, Matthew, Mark, Luke and John.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Mr. T"
+    },
+    {
+        "quoteId": "q13",
+        "quoteText": "The problem with winter sports is that - follow me closely here - they generally take place in winter.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Dave Barry"
+    },
+    {
+        "quoteId": "q14",
+        "quoteText": "Long stormy spring-time, wet contentious April, winter chilling the lap of very May; but at length the season of summer does come.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Thomas Carlyle"
+    },
+    {
+        "quoteId": "q15",
+        "quoteText": "In the long winter evenings he talked to Ma about the Western country. In the West the land was level, and there were no trees. The grass grew thick and high.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Laura Ingalls Wilder"
+    },
+    {
+        "quoteId": "q16",
+        "quoteText": "We Californians can watch the Weather Channel for images of winter's brutality unleashed upon our fellow Americans and thank our lucky stars we don't have to contend with it.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Henry Rollins"
+    },
+    {
+        "quoteId": "q17",
+        "quoteText": "If Winter comes, can Spring be far behind?",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Percy Bysshe Shelley"
+    },
+    {
+        "quoteId": "q18",
+        "quoteText": "I had been educated in the rhythms of the mountain, rhythms in which change was never fundamental, only cyclical. The same sun appeared each morning, swept over the valley, and dropped behind the peak. The snows that fell in winter always melted in the spring.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Tara Westover"
+    },
+    {
+        "quoteId": "q19",
+        "quoteText": "He who marvels at the beauty of the world in summer will find equal cause for wonder and admiration in winter.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" John Burroughs"
+    },
+    {
+        "quoteId": "q20",
+        "quoteText": "In winter, the stars seem to have rekindled their fires, the moon achieves a fuller triumph, and the heavens wear a look of a more exalted simplicity. Summer is more wooing and seductive, more versatile and human, appeals to the affections and the sentiments, and fosters inquiry and the art impulse.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" John Burroughs"
+    },
+    {
+        "quoteId": "q21",
+        "quoteText": "All sounds are sharper in winter; the air transmits better.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" John Burroughs"
+    },
+    {
+        "quoteId": "q22",
+        "quoteText": "To many forms of life of our northern lands, winter means a long sleep; to others, it means what it means to many fortunate human beings - travels in warm climes. To still others, who again have their human prototypes, it means a struggle, more or less fierce, to keep soul and body together; while to many insect forms, it means death.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" John Burroughs"
+    },
+    {
+        "quoteId": "q23",
+        "quoteText": "A sap run is the sweet goodbye of winter. It is the fruit of the equal marriage of the sun and frost.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" John Burroughs"
+    },
+    {
+        "quoteId": "q24",
+        "quoteText": "Mama grizzlies mate later than other bears. They have two cubs instead of four. They wait four years - about twice as long as other bears - between having cubs. And after they're pregnant, if winter is hard or their health is not good or the food supply is uncertain, they re-absorb the embryo into their body.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Gloria Steinem"
+    },
+    {
+        "quoteId": "q25",
+        "quoteText": "I think the greatest hip-hop artist of all time is Jay-Z, without a doubt. He just keeps amazing me with his performance, and since '96, that guy has been producing at least one hit every summer and every winter. That's a pretty good resume.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" John Cena"
+    },
+    {
+        "quoteId": "q26",
+        "quoteText": "The country is more of a wilderness, more of a wild solitude, in the winter than in the summer. The wild comes out. The urban, the cultivated, is hidden or negatived.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" John Burroughs"
+    },
+    {
+        "quoteId": "q27",
+        "quoteText": "For sure, Potrero Chico is a super nice winter vacation climbing area. It's really convenient to fly into Monterrey, one of the nicer cities in Mex, and get a taxi to Potero. Then you can just live in the camping area and walk everywhere. It's muy tranquilo, as they say there.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Alex Honnold"
+    },
+    {
+        "quoteId": "q28",
+        "quoteText": "I gotta have my long trench coats, a nice scarf for the winter time when you're walking around, and some nice fitted jeans to go with the trench coats.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Future"
+    },
+    {
+        "quoteId": "q29",
+        "quoteText": "Winter lingered so long in the lap of Spring that it occasioned a great deal of talk.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Bill Nye"
+    },
+    {
+        "quoteId": "q30",
+        "quoteText": "In recent years, I've begun the year by driving across France to the Alps, abandoning the January gloom for Alpine winter sun, even if the ski-goggles do give you panda marks when you get a tan. As a child, I was always a bit of a billygoat when I'd go camping with my mates in North Wales, around Snowdonia.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Paul Hollywood"
+    },
+    {
+        "quoteId": "q31",
+        "quoteText": "I got all my boyhood in vanilla winter waves around the kitchen stove.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Jack Kerouac"
+    },
+    {
+        "quoteId": "q32",
+        "quoteText": "As sure as the spring will follow the winter, prosperity and economic growth will follow recession.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Bo Bennett"
+    },
+    {
+        "quoteId": "q33",
+        "quoteText": "I was raised in California, so this whole New York winter thing is completely new for me. I've already justified buying seven coats!",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Blake Lively"
+    },
+    {
+        "quoteId": "q34",
+        "quoteText": "We cling to our own point of view, as though everything depended on it. Yet our opinions have no permanence; like autumn and winter, they gradually pass away.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Zhuangzi"
+    },
+    {
+        "quoteId": "q35",
+        "quoteText": "In London the day after Christmas (Boxing Day), it began to snow: my first snow in England. For five years, I had been tactfully asking, 'Do you ever have snow at all?' as I steeled myself to the six months of wet, tepid gray that make up an English winter. 'Ooo, I do remember snow,' was the usual reply, 'when I were a lad.'",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Sylvia Plath"
+    },
+    {
+        "quoteId": "q36",
+        "quoteText": "And we have a little herb garden, which survived the winter thanks to global warming. It makes me feel like a cool, old Italian housewife, that I kept my rosemary alive outside all winter.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Elizabeth Gilbert"
+    },
+    {
+        "quoteId": "q37",
+        "quoteText": "And some places you been before are so great that you don't ever mind going back. Some places you been before you don't ever want to go back, you know, like Montreal in the Winter.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Morgan Freeman"
+    },
+    {
+        "quoteId": "q38",
+        "quoteText": "In the winter, I'm always in Europe. July and September are New Zealand and Chile camps. I'm always on the road.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Lindsey Vonn"
+    },
+    {
+        "quoteId": "q39",
+        "quoteText": "Winter lies too long in country towns; hangs on until it is stale and shabby, old and sullen.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Willa Cather"
+    },
+    {
+        "quoteId": "q40",
+        "quoteText": "Global trade has advantages. For starters, it allows those of us who live through winter to eat fresh produce year-round. And it provides economic benefits to farmers who grow that food.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" David Suzuki"
+    },
+    {
+        "quoteId": "q41",
+        "quoteText": "Seasonality in winter doesn't have to mean sleep-inducing, stew-like, starchy casseroles.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Yotam Ottolenghi"
+    },
+    {
+        "quoteId": "q42",
+        "quoteText": "The combination of olive oil, garlic and lemon juice lifts the spirits in winter.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Yotam Ottolenghi"
+    },
+    {
+        "quoteId": "q43",
+        "quoteText": "Dried porcini add a substantial, deep flavour to otherwise more neutral vegetables. I use them in risottos, mashed roots and winter soups.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Yotam Ottolenghi"
+    },
+    {
+        "quoteId": "q44",
+        "quoteText": "I always love the smell of a bat and a glove, or a hockey puck in the winter time.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Tiny Tim"
+    },
+    {
+        "quoteId": "q45",
+        "quoteText": "I grew up in New Hampshire. My closest neighbor was a mile away. The deer and the raccoons were my friends. So I would spend time walking through the woods, looking for the most beautiful tropical thing that can survive the winter in the woods in New Hampshire.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Steven Tyler"
+    },
+    {
+        "quoteId": "q47",
+        "quoteText": "I have a total irreverence for anything connected with society except that which makes the roads safer, the beer stronger, the food cheaper and the old men and old women warmer in the winter and happier in the summer.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Brendan Behan"
+    },
+    {
+        "quoteId": "q48",
+        "quoteText": "Nothing is as easy to make as a promise this winter to do something next summer; this is how commencement speakers are caught.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Sydney J. Harris"
+    },
+    {
+        "quoteId": "q49",
+        "quoteText": "Remember the rights of the savage, as we call him. Remember that the happiness of his humble home, remember that the sanctity of life in the hill villages of Afghanistan, among the winter snows, is as inviolable in the eye of Almighty God, as can be your own.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" William E. Gladstone"
+    },
+    {
+        "quoteId": "q50",
+        "quoteText": "There are two seasons in Scotland: June and Winter.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Billy Connolly"
+    },
+    {
+        "quoteId": "q51",
+        "quoteText": "When I'm drawing, I'm drawing with the light, being completely open and creative. I can't draw in the evening. I need light and I need warmth if it is a summer thing, and I need cold if it is a winter collection. The good thing is that I have houses to go to whenever I'm working. I draw according to the place.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Christian Louboutin"
+    },
+    {
+        "quoteId": "q52",
+        "quoteText": "I love the simple poetry of theater, where you can stand in a spotlight on a stage and wrap a coat around you, and say, 'It was 1860 and it was winter...'",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Gary Oldman"
+    },
+    {
+        "quoteId": "q53",
+        "quoteText": "If a guy hits .300 every year, what does he have to look forward to? I always tried to stay around .190, with three or four RBI. And I tried to get them all in September. That way I always had something to talk about during the winter.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Bob Uecker"
+    },
+    {
+        "quoteId": "q54",
+        "quoteText": "When I work, I wear pants usually because I want to be comfortable. I wear dark colors, especially in winter, because I don't want to concentrate on myself but on what I'm working on. Because I really, really love clothes, I can start to think too much about myself. It's distracting.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Donatella Versace"
+    },
+    {
+        "quoteId": "q55",
+        "quoteText": "I remember the '70s constantly being winter in Manchester and the Irish community in Manchester closing ranks because of the IRA bombings in Birmingham and Manchester, and you know the bin-workers' strike, all wrapped up in it... They were violent times. Violence at home and violence at football matches.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Noel Gallagher"
+    },
+    {
+        "quoteId": "q56",
+        "quoteText": "The winter's a little bit daunting in Montana.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Phil Jackson"
+    },
+    {
+        "quoteId": "q57",
+        "quoteText": "Known colloquially as 'winter,' 'golden needle,' and 'velvet foot' mushrooms, enoki mushrooms grow across much of the world, inhabiting dead conifer trees and stumps, and generally appearing throughout the late fall and winter months.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Paul Stamets"
+    },
+    {
+        "quoteId": "q58",
+        "quoteText": "I wear a lot of sweatshirts and joggers in the winter and gym shorts and tees in the summer. I really appreciate something that is easy to slip on and chill out in.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Julian Edelman"
+    },
+    {
+        "quoteId": "q59",
+        "quoteText": "I had slumps that lasted into the winter.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Bob Uecker"
+    },
+    {
+        "quoteId": "q60",
+        "quoteText": "We evolved living in more sunlight than today. We make our own vitamin D when sunlight hits our skin cells. Many people living in the northern hemisphere, however, suffer from lower levels of vitamin D during the fall, winter and spring.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Paul Stamets"
+    },
+    {
+        "quoteId": "q61",
+        "quoteText": "I like cool jackets - a nice fall or winter coat. You can get a lot of use out of it, and you'll wear it frequently, so it can really set the tone of your uniform for the season.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" John Legend"
+    },
+    {
+        "quoteId": "q62",
+        "quoteText": "I wasn't the biggest Captain America fan, but increasingly, I see him as a great character. Winter Soldier really got into what it meant to actually represent America.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Ta-Nehisi Coates"
+    },
+    {
+        "quoteId": "q63",
+        "quoteText": "In New York especially, I always want to wear a nice overcoat to get through the winter: you can wear them so many times, and they make every outfit better.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" John Legend"
+    },
+    {
+        "quoteId": "q64",
+        "quoteText": "I have run with the Olympic Torch during the 2012 summer games in London and the 2014 winter games in Sochi.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Ban Ki-moon"
+    },
+    {
+        "quoteId": "q65",
+        "quoteText": "As a child, I was an obsessive reader, as was everybody in my family all winter long with my father. I think I was only 8 when I read Edward Gibbon's 'The History of the Decline and Fall of the Roman Empire.'",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Jim Harrison"
+    },
+    {
+        "quoteId": "q66",
+        "quoteText": "Write about winter in the summer.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Annie Dillard"
+    },
+    {
+        "quoteId": "q67",
+        "quoteText": "I went with a pixie cut when my daughter was really young. It was easy - I mean, it was really easy. But I missed my long hair. Especially after a long winter, all I want is sexy summer hair.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Katie Holmes"
+    },
+    {
+        "quoteId": "q68",
+        "quoteText": "Maine is a joy in the summer. But the soul of Maine is more apparent in the winter.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Paul Theroux"
+    },
+    {
+        "quoteId": "q69",
+        "quoteText": "The winter solstice has always been special to me as a barren darkness that gives birth to a verdant future beyond imagination, a time of pain and withdrawal that produces something joyfully inconceivable, like a monarch butterfly masterfully extracting itself from the confines of its cocoon, bursting forth into unexpected glory.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Gary Zukav"
+    },
+    {
+        "quoteId": "q70",
+        "quoteText": "We cannot stop the winter or the summer from coming. We cannot stop the spring or the fall or make them other than they are. They are gifts from the universe that we cannot refuse. But we can choose what we will contribute to life when each arrives.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Gary Zukav"
+    },
+    {
+        "quoteId": "q71",
+        "quoteText": "At the Summer Solstice, all is green and growing, potential coming into being, the miracle of manifestation painted large on the canvas of awareness. At the Winter Solstice, the wind is cold, trees are bare and all lies in stillness beneath blankets of snow.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Gary Zukav"
+    },
+    {
+        "quoteId": "q72",
+        "quoteText": "Both the Winter and the Summer Solstices are expressions of love. They show us the opposition of light and dark, expansion and contraction, that characterize our experiences in the Earth school so that we can recognize our options as we move through our lives.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Gary Zukav"
+    },
+    {
+        "quoteId": "q73",
+        "quoteText": "I enjoy hiking and skiing, like most Norwegians. In winter, there will be snow for months on end. In the summer, there are the long evenings to enjoy.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Magnus Carlsen"
+    },
+    {
+        "quoteId": "q74",
+        "quoteText": "Each solstice is a domain of experience unto itself. At the Summer Solstice, all is green and growing, potential coming into being, the miracle of manifestation painted large on the canvas of awareness. At the Winter Solstice, the wind is cold, trees are bare and all lies in stillness beneath blankets of snow.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Gary Zukav"
+    },
+    {
+        "quoteId": "q75",
+        "quoteText": "If I eat at the Emporio Armani Caffe, my favorite thing to order is risotto or pasta with tomato sauce in winter; in summer, I prefer a Caprese salad, Parmigiano cheese flakes, or some truly fresh ricotta cheese.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Giorgio Armani"
+    },
+    {
+        "quoteId": "q76",
+        "quoteText": "In 'Winter's Bone,' it's literally the director and the camera operator. That's it. Just a super-small Kubrick crew. You know what I mean? Like, 8 people.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Bill Hader"
+    },
+    {
+        "quoteId": "q77",
+        "quoteText": "Here's how much I know about hockey. Mike Royko and I were in a tiny bar one winter night, and the radio kept reporting goals by the Blackhawks. I mentioned how frequently the team was scoring. 'You're listening to the highlights,' Royko observed.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Roger Ebert"
+    },
+    {
+        "quoteId": "q78",
+        "quoteText": "I spent a lot of winters in my childhood flying kites with my brother, with my cousins, with friends in the neighborhood. It's what we did in the winter. Schools close down. There was not much to do.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Khaled Hosseini"
+    },
+    {
+        "quoteId": "q79",
+        "quoteText": "The deadnettle is the Punxsutawney Phil of the plant world: short of stature but stout of heart. At the first hint of winter's wane, its stem rises from the ground, and a green, grasping hand of sepals unclenches to divulge two silky-white petals, one of which unfurls straight up toward the sky.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Hope Jahren"
+    },
+    {
+        "quoteId": "q80",
+        "quoteText": "I straighten my hair very few times throughout the year, and it's only in the cold winter months because it's the only time my hair will stay straight. If there is, like, a tiny bit of humidity in the air, it's curly again.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Michelle Wolf"
+    },
+    {
+        "quoteId": "q81",
+        "quoteText": "I think of love and marriage in the same way I do plants: We have perennials and annuals. The perennial plant blooms, goes away, and comes back. The annual blooms for just a season, and then winter arrives and takes it out for good. But it's still enriched the soil for the next flower to bloom. In the same way, no love is wasted.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Glennon Doyle Melton"
+    },
+    {
+        "quoteId": "q82",
+        "quoteText": "The Christian Bible is a symbolic book, not a literal one. The one Christians know as Jesus was actually a symbol for the sun. Ancient sun worshippers believed the sun died at the end of the winter solstice and then three days later it would be reborn at the start of its cycle - December 25.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" David Icke"
+    },
+    {
+        "quoteId": "q83",
+        "quoteText": "In 2002 the Yamaha was at more or less the same level as the Honda, better in some ways, worse in others. But in the winter of last year between 2002 and 2003, Honda made a big step forward and it seemed as if Yamaha couldn't quite match that improvement.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Valentino Rossi"
+    },
+    {
+        "quoteId": "q84",
+        "quoteText": "The work that we do during the winter is very important; we have a new bike and it's important to develop it during this time, and we start with this test.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Valentino Rossi"
+    },
+    {
+        "quoteId": "q85",
+        "quoteText": "My favorite fall or winter lunch is big steaming bowls of soup. I usually invite people for around 12:30 and have two hearty soups like shrimp corn chowder and lentil sausage soup, which can be made a day or two ahead.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Ina Garten"
+    },
+    {
+        "quoteId": "q86",
+        "quoteText": "Let us love winter, for it is the spring of genius.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Pietro Aretino"
+    },
+    {
+        "quoteId": "q87",
+        "quoteText": "In the summer you want fresh, light and sort of quick things; in winter you want things that are comforting, so your body really tells you you want to go towards potatoes, apples, fennel, things that are warm and comforting. And loin of pork.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Ina Garten"
+    },
+    {
+        "quoteId": "q88",
+        "quoteText": "If you look at the success of snowboarding in the Winter Games and how that's brought a more youthful edge to the Olympics in general, they don't have that with the Summer Games. They don't have anything that's drawing in a younger viewership.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Tony Hawk"
+    },
+    {
+        "quoteId": "q89",
+        "quoteText": "We go to Italy every winter, and my husband's mother has a bingo party on Christmas. Every woman brings a dish: lentils, cavolo nero, tons of beans, polenta, every type of cheese, bruschetta, fresh vegetables, and local olive oil and wine.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Debi Mazar"
+    },
+    {
+        "quoteId": "q90",
+        "quoteText": "People ask me what I do in winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Rogers Hornsby"
+    },
+    {
+        "quoteId": "q91",
+        "quoteText": "Trying to build a team over the course of the winter to put on the field is really just half the job. Because if your best players go down, it's not so much him going down as who you replace him with, which ultimately might have the biggest impact on how you end up finishing. So you want to have both a belt and suspenders for support.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Billy Beane"
+    },
+    {
+        "quoteId": "q92",
+        "quoteText": "There are three reasons for becoming a writer: the first is that you need the money; the second that you have something to say that you think the world should know; the third is that you can't think what to do with the long winter evenings.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Quentin Crisp"
+    },
+    {
+        "quoteId": "q93",
+        "quoteText": "The communities and countries best at using energy to optimize a microclimate for human life are also the ones whose people have the longest average lifespans. Canada, Sweden, and Iceland - places with inhospitable winter weather - are frontrunners in sustaining human health and life.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Chris Hadfield"
+    },
+    {
+        "quoteId": "q94",
+        "quoteText": "Mars is much closer to the characteristics of Earth. It has a fall, winter, summer and spring. North Pole, South Pole, mountains and lots of ice. No one is going to live on Venus; no one is going to live on Jupiter.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Buzz Aldrin"
+    },
+    {
+        "quoteId": "q95",
+        "quoteText": "In the winter, things are dead and dull, but then there is an explosion of life. That's what He promises people who believe in His Son. That's what all the Robertsons are banking on.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Si Robertson"
+    },
+    {
+        "quoteId": "q96",
+        "quoteText": "There are three reasons for becoming a writer: the first is that you need the money; the second that you have something to say that you think the world should know; the third is that you can't think what to do with the long winter evenings.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Quentin Crisp"
+    },
+    {
+        "quoteId": "q97",
+        "quoteText": "I am extremely involved in the design process of both my brands, Winter Kate and House of Harlow 1960.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Nicole Richie"
+    },
+    {
+        "quoteId": "q98",
+        "quoteText": "My face and skin trick is to moisturise well in the winter time, because the weather eats up your skin, and I never go to sleep with make up on. Someone told me it ages you ten years.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Kelly Rowland"
+    },
+    {
+        "quoteId": "q99",
+        "quoteText": "The Winter Kate-House of Harlow 1960 customer is a multi-tasker, therefore it's important that they are able to put together an outfit with ease and elegance. Pieces that are easy to mix within their own wardrobe. Easy dressing while maintaining a well put together look.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Nicole Richie"
+    },
+    {
+        "quoteId": "q100",
+        "quoteText": "From the bitter cold winter at Valley Forge, to the mountains of Afghanistan and the deserts of Iraq, our soldiers have courageously answered when called, gone where ordered, and defended our nation with honor.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Solomon Ortiz"
+    },
+    {
+        "quoteId": "q101",
+        "quoteText": "I practice a lot. I practice in the winter when it's cold in Connecticut - a lot. I practice in my bedroom on the carpet - a lot. For all the practice I do, I should be a better golfer than I am.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Stuart Scott"
+    },
+    {
+        "quoteId": "q102",
+        "quoteText": "I hold that the beginning of modern Irish drama was in the winter of 1898, at a school feast at Coole, when Douglas Hyde and Miss Norma Borthwick acted in Irish in a Punch and Judy show; and the delighted children went back to tell their parents what grand curses 'An Craoibhin' had put on the baby and the policeman.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Lady Gregory"
+    },
+    {
+        "quoteId": "q103",
+        "quoteText": "As winter approaches - bringing cold weather and family drama - we crave page-turners, books made for long nights and tryptophan-induced sloth.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Sarah MacLean"
+    },
+    {
+        "quoteId": "q104",
+        "quoteText": "When I encountered rich people for the first time, I discovered that not only do they holiday in places that are hard to find on a map, but that they also use the names of seasons as verbs. When they asked me, 'Where did you summer and winter growing up?' I would usually say, 'As a child? The same place I springed and autumned.'",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Artie Lange"
+    },
+    {
+        "quoteId": "q105",
+        "quoteText": "Winter is nature's way of saying, 'Up yours.'",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Robert Byrne"
+    },
+    {
+        "quoteId": "q106",
+        "quoteText": "Winter makes a bridge between one year and another and, in this case, one century and the next.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Andy Goldsworthy"
+    },
+    {
+        "quoteId": "q107",
+        "quoteText": "Were it my choice, I would not vote for Russia to hold the Winter Olympics or the Summer Olympics. But it's not my choice.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Mitt Romney"
+    },
+    {
+        "quoteId": "q108",
+        "quoteText": "You have to take it upon yourself and preserve and can foods that you'll want for the winter.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Alice Waters"
+    },
+    {
+        "quoteId": "q109",
+        "quoteText": "I remember opening my dad's closet and there were, like, 40 suits, every color of the rainbow, plaid and winter and summer. He had two jewelry boxes full of watches and lighters and cuff links. And just... he was that guy. He was probably unfulfilled in his life in many ways.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Jon Hamm"
+    },
+    {
+        "quoteId": "q110",
+        "quoteText": "I have experienced within my own lifetime the attack of my winter camp and the killing of the women and children. It left me even angrier than I was - and I was never too calm to begin with.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" John Trudell"
+    },
+    {
+        "quoteId": "q111",
+        "quoteText": "The first thing to be said about 'Prague Winter,' former Secretary of State Madeleine Albright's new book, is that she very wisely chooses to confront early on in it her apparent surprise at learning late in life that she was born Jewish.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Michael Korda"
+    },
+    {
+        "quoteId": "q112",
+        "quoteText": "The truth is, I'm someone coming from a spoiled society - the worst thing we deal with in Canada is winter.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Denis Villeneuve"
+    },
+    {
+        "quoteId": "q113",
+        "quoteText": "In college, there never really was an offseason. The season would end, you'd get a week break, and then the hardest time of the year would start. Winter workouts in college were absolutely miserable.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Pat McAfee"
+    },
+    {
+        "quoteId": "q114",
+        "quoteText": "I wanted the collection for Target to reinterpret all the must-haves of Stella McCartney for winter and to make my designs more accessible to a wider audience in Australia.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Stella McCartney"
+    },
+    {
+        "quoteId": "q115",
+        "quoteText": "I'm from Sweden, where it's winter, like, half the year. And it's dark - we barely have any daylight.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Snoh Aalegra"
+    },
+    {
+        "quoteId": "q116",
+        "quoteText": "I thought that some of my best records was when there wasn't a lot of work being done on it, like 'Winter in America' and 'Secrets' and when there weren't a whole lot of people in the studios.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Gil Scott-Heron"
+    },
+    {
+        "quoteId": "q117",
+        "quoteText": "But I do feel a little teeny right now that I'm just about ready to start, and winter is entering. Half past autumn has arrived.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Gordon Parks"
+    },
+    {
+        "quoteId": "q118",
+        "quoteText": "Like any traveler, I'm always looking for those experiences that are almost unique to any place, and watching films around Alaska of the skies in winter made me want to taste those unworldly showers of light in person.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Pico Iyer"
+    },
+    {
+        "quoteId": "q119",
+        "quoteText": "I thought that some of my best records was when there wasn't a lot of work being done on it, like 'Winter in America' and 'Secrets' and when there weren't a whole lot of people in the studios.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Gil Scott-Heron"
+    },
+    {
+        "quoteId": "q120",
+        "quoteText": "Working is bad enough in the winter, but in the summer it can become completely intolerable. Stuck in airless offices, every fibre of our being seems to cry out for freedom. We're reminded of being stuck in double maths while the birds sing outside.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Tom Hodgkinson"
+    },
+    {
+        "quoteId": "q121",
+        "quoteText": "We see people in the Middle East begin to have dreams of new Ottoman Empire where everyone will be subjected to some of what we've seen happen in those countries where we helped bring about an Arab Spring that's turned into a Winter Nightmare.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Louie Gohmert"
+    },
+    {
+        "quoteId": "q122",
+        "quoteText": "Sometimes, you need to revamp yourself over the winter, participate in things that make you appreciate what you have.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Hannah Teter"
+    },
+    {
+        "quoteId": "q123",
+        "quoteText": "Nike Air Zooms are what I usually run in. In the kitchen, I wear a beaten-up pair of Converse All-Stars in winter and Keds in summer.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Christina Tosi"
+    },
+    {
+        "quoteId": "q124",
+        "quoteText": "As winter strips the leaves from around us, so that we may see the distant regions they formerly concealed, so old age takes away our enjoyments only to enlarge the prospect of the coming eternity.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Jean Paul"
+    },
+    {
+        "quoteId": "q125",
+        "quoteText": "When I grew up there wasn't air-conditioning or anything of that nature, and this old car had a wall thickness of about ten inches. So we had a little warmer house in the winter and a little cooler in the summer.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Merle Haggard"
+    },
+    {
+        "quoteId": "q126",
+        "quoteText": "It took me three years to learn to dress in the American way, especially in winter. That was just like me. I barely wear socks even now.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Mira Nair"
+    },
+    {
+        "quoteId": "q127",
+        "quoteText": "I think bare legs in winter are idiotic. Unless your naked pins are toned, tanned and veinless, it's best to cover up. There is nothing more elegant in winter than dark tights worn with matching knee-length boots and a belted trench coat.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Joan Collins"
+    },
+    {
+        "quoteId": "q128",
+        "quoteText": "Last winter when I was coming home from church one Thursday evening, I saw somebody run around the house again. I told my father of that.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Lizzie Andrew Borden"
+    },
+    {
+        "quoteId": "q129",
+        "quoteText": "What most people don't realize is that in snowboarding, there are two different aspects: the filming side and the competition side. The filming side is when snowboarders spend the entire winter season trying to document the best, most progressive and innovative riding of the year.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Gretchen Bleiler"
+    },
+    {
+        "quoteId": "q130",
+        "quoteText": "When I first started snowboarding, it was something that was only really done in the winter. Mount Hood in Oregon was the magical exception.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Gretchen Bleiler"
+    },
+    {
+        "quoteId": "q131",
+        "quoteText": "A lot of the time, we're shooting summer campaigns in winter because they have to come out the next season. It's the hardest to feel great in a bikini when it's cold... so I appreciate a swimsuit shoot that's in warm weather.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Gigi Hadid"
+    },
+    {
+        "quoteId": "q132",
+        "quoteText": "I usually always cook all the chutneys that I serve in the winter.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Maneet Chauhan"
+    },
+    {
+        "quoteId": "q133",
+        "quoteText": "After the Winter Olympics in 2006, I realized I had a platform to speak about causes that were important to me - and people would listen.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Gretchen Bleiler"
+    },
+    {
+        "quoteId": "q134",
+        "quoteText": "I think winter wear is communal. You get some gloves and a scarf from a lost-and-found box, wash them, wear them for a while until you lose them. Then somebody else does the same thing.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Adrian Grenier"
+    },
+    {
+        "quoteId": "q135",
+        "quoteText": "I am the sort of athlete who participates in a lot of winter sports - basketball, for example, is an activity that I'll spend many hours a week watching.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" W. Bruce Cameron"
+    },
+    {
+        "quoteId": "q136",
+        "quoteText": "My parents live in the part of the United States that is Canada. It is so far north that Minnesota lies in the same direction as Miami. They have four distinct seasons: Winter, More Winter, Still More Winter, and That One Day Of Summer.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" W. Bruce Cameron"
+    },
+    {
+        "quoteId": "q137",
+        "quoteText": "The thought of being the first openly gay male ever to compete in the Winter Olympics - I totally embrace that.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Gus Kenworthy"
+    },
+    {
+        "quoteId": "q138",
+        "quoteText": "Will biofuel usage require land? Absolutely, but we think the ability to use winter cover crops, degraded land, as well as using sources such as organic waste, sewage, and forest waste means that actual land usage will be limited. Just these sources can replace most of our imported oil by 2030 without touching new land.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Vinod Khosla"
+    },
+    {
+        "quoteId": "q139",
+        "quoteText": "I came to Miami for the first time during the winter, and naturally, I fell in love with the weather.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Joanna Krupa"
+    },
+    {
+        "quoteId": "q140",
+        "quoteText": "The raising to life of all animate beings at the resurrection of the dead can be no more difficult for Divine Power than restoring to life a fly in the spring, heavy with the death-stained sleep of winter.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Said Nursi"
+    },
+    {
+        "quoteId": "q141",
+        "quoteText": "The winter period between September and March in this country, when land sits fallow and is subject to topsoil loss, we could be enriching the soil and growing all the biomass we need to replace imported gasoline.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Vinod Khosla"
+    },
+    {
+        "quoteId": "q142",
+        "quoteText": "Johnny Winter is one of the best blues players in the world. He's very underrated.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Ritchie Blackmore"
+    },
+    {
+        "quoteId": "q143",
+        "quoteText": "Thou hast no sorrow in thy song, no winter in thy year.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" John A. Logan"
+    },
+    {
+        "quoteId": "q144",
+        "quoteText": "In this part of the world, only Maine gives winter the welcome and the worship it should have.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Tom Allen"
+    },
+    {
+        "quoteId": "q145",
+        "quoteText": "Give me a hot drink, and I'm happy. Hot cider, hot chocolate, coffee... I like all winter beverages!",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Alexis Bledel"
+    },
+    {
+        "quoteId": "q146",
+        "quoteText": "Winter in Maine is a time of alternating rest and frenzied activity.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Tom Allen"
+    },
+    {
+        "quoteId": "q147",
+        "quoteText": "I wore No. 24 at the 1988 Winter Olympics in Calgary, Canada - one bib on the back and one on the front - and those are like my medals.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Eddie the Eagle"
+    },
+    {
+        "quoteId": "q148",
+        "quoteText": "While I relish our warm months, winter forms our character and brings out our best.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Tom Allen"
+    },
+    {
+        "quoteId": "q149",
+        "quoteText": "Very little is known about Hugh Glass as a real guy that existed 200 years ago, except that he was attacked by a bear, betrayed and left for dead, and has to survive in the winter. I said, 'What really drives a human to survive those conditions?'",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Alejandro Gonzalez Inarritu"
+    },
+    {
+        "quoteId": "q150",
+        "quoteText": "I hear from my Inuit and Yupik relatives up north that everything has changed. It's so hot; there is not enough winter. Animals are confused. Ice is melting.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Joy Harjo"
+    },
+    {
+        "quoteId": "q151",
+        "quoteText": "Normally, when I skydive, even in winter, I wear very thin gloves. I want to be flexible, with fast reactions.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Felix Baumgartner"
+    },
+    {
+        "quoteId": "q152",
+        "quoteText": "We have a house near East Hampton, and of all the beaches I've been to, I think there is something so beautiful about Long Island beaches. I love them in the fall and winter.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Aerin Lauder"
+    },
+    {
+        "quoteId": "q153",
+        "quoteText": "My favorite band - and Bobby Cannavale and Terry Winter have already made fun of me for this - is Chicago.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Ray Romano"
+    },
+    {
+        "quoteId": "q154",
+        "quoteText": "Normally, when I skydive, even in winter, I wear very thin gloves. I want to be flexible, with fast reactions.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Felix Baumgartner"
+    },
+    {
+        "quoteId": "q155",
+        "quoteText": "Once something has outlived its usefulness in one area of life, its purpose for being in existence is no longer the same. The leaf that captures a stream of sunlight, and then transfers its energy to the tree, serves one purpose in the spring and summer, and another completely different one through the fall and winter.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Guy Finley"
+    },
+    {
+        "quoteId": "q156",
+        "quoteText": "My son, Laurier, and I love being outdoors. We like to ski and to skate, to play in the snow, and simply to walk and enjoy the winter scenery.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Julie Payette"
+    },
+    {
+        "quoteId": "q157",
+        "quoteText": "My favorite holiday memory was sitting at home all day in my pajamas during winter break for school watching a bunch of old Christmas movies like 'Jack Frost' and 'Rudolph the Red-Nosed Reindeer' with my siblings and parents.",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Becky G"
+    },
+    {
+        "quoteId": "q158",
+        "quoteText": "It was the winter of war, in 1939. It felt completely pointless to try to create pictures... I suddenly felt an urge to write down something that was to begin with 'Once upon a time.'",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Tove Jansson"
+    },
+    {
+        "quoteId": "q159",
+        "quoteText": "Short boots are cool, in my humble opinion. They say, 'Hey! Winter is over, but summer hasn't yet arrived - so enjoy this halfway point!'",
+        "quoteImgPath": "img/category/crush.jpg",
+	"auother":" Rachel Nichols"
+    }
+]
